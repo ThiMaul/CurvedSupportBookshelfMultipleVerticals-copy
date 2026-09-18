@@ -7,8 +7,7 @@
   "ioValues": [
     {
       "name": "CurveSupportWidth",
-      "ioValue": 200,
-      "currentEquation": "200"
+      "ioValue": 200
     },
     {
       "name": "ShelfNumber",
@@ -16,18 +15,15 @@
     },
     {
       "name": "TotalHeight",
-      "ioValue": 1800,
-      "currentEquation": "1800"
+      "ioValue": 1800
     },
     {
       "name": "TotalDepth",
-      "ioValue": 400,
-      "currentEquation": "400"
+      "ioValue": 400
     },
     {
       "name": "TotalWidth",
-      "ioValue": 1250,
-      "currentEquation": "1250"
+      "ioValue": 1250
     },
     {
       "name": "BaseHeight",
@@ -87,35 +83,40 @@
       "x": 0,
       "y": 0.2,
       "uniqueID": "id-19",
-      "name": "CurveSupportWidth"
+      "name": "CurveSupportWidth",
+      "options": []
     },
     {
       "atomType": "Input",
       "x": 0,
       "y": 0.2,
       "uniqueID": "id-22",
-      "name": "ShelfNumber"
+      "name": "ShelfNumber",
+      "options": []
     },
     {
       "atomType": "Input",
       "x": 0,
       "y": 0.3,
       "uniqueID": "id-25",
-      "name": "TotalHeight"
+      "name": "TotalHeight",
+      "options": []
     },
     {
       "atomType": "Input",
       "x": 0,
       "y": 0.4,
       "uniqueID": "id-28",
-      "name": "TotalDepth"
+      "name": "TotalDepth",
+      "options": []
     },
     {
       "atomType": "Input",
       "x": 0,
       "y": 0.5,
       "uniqueID": "id-31",
-      "name": "TotalWidth"
+      "name": "TotalWidth",
+      "options": []
     },
     {
       "atomType": "Readme",
@@ -152,21 +153,24 @@
       "x": 0,
       "y": 0.6,
       "uniqueID": "id-34",
-      "name": "BaseHeight"
+      "name": "BaseHeight",
+      "options": []
     },
     {
       "atomType": "Input",
       "x": 0,
       "y": 0.7,
       "uniqueID": "id-37",
-      "name": "WoodThick"
+      "name": "WoodThick",
+      "options": []
     },
     {
       "atomType": "Input",
       "x": 0,
       "y": 0.8,
       "uniqueID": "id-40",
-      "name": "TopHeight"
+      "name": "TopHeight",
+      "options": []
     },
     {
       "atomType": "Molecule",
@@ -334,56 +338,64 @@
           "y": 0.2,
           "uniqueID": "id-4317",
           "name": "Shape",
-          "type": "geometry"
+          "type": "geometry",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.2,
           "uniqueID": "id-4320",
-          "name": "ElementsNumber"
+          "name": "ElementsNumber",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.3,
           "uniqueID": "id-4323",
-          "name": "MoveX"
+          "name": "MoveX",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.4,
           "uniqueID": "id-4326",
-          "name": "MoveY"
+          "name": "MoveY",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.5,
           "uniqueID": "id-4329",
-          "name": "MoveZ"
+          "name": "MoveZ",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.6,
           "uniqueID": "id-4338",
-          "name": "RotateX"
+          "name": "RotateX",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.7,
           "uniqueID": "id-4341",
-          "name": "RotateY"
+          "name": "RotateY",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.8,
           "uniqueID": "id-4344",
-          "name": "RotateZ"
+          "name": "RotateZ",
+          "options": []
         },
         {
           "atomType": "Assembly",
@@ -472,63 +484,72 @@
               "x": 0,
               "y": 0.2,
               "uniqueID": "id-4356",
-              "name": "Index"
+              "name": "Index",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.2,
               "uniqueID": "id-4359",
-              "name": "NumberElements"
+              "name": "NumberElements",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.3,
               "uniqueID": "id-4362",
-              "name": "Shape"
+              "name": "Shape",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.4,
               "uniqueID": "id-4365",
-              "name": "MoveX"
+              "name": "MoveX",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.5,
               "uniqueID": "id-4368",
-              "name": "MoveY"
+              "name": "MoveY",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.6,
               "uniqueID": "id-4371",
-              "name": "MoveZ"
+              "name": "MoveZ",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.7,
               "uniqueID": "id-4374",
-              "name": "RotateX"
+              "name": "RotateX",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.8,
               "uniqueID": "id-4377",
-              "name": "RotateY"
+              "name": "RotateY",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.9,
               "uniqueID": "id-4380",
-              "name": "RotateZ"
+              "name": "RotateZ",
+              "options": []
             },
             {
               "atomType": "Equation",
@@ -948,63 +969,72 @@
               "x": 0,
               "y": 0.2,
               "uniqueID": "id-4926",
-              "name": "Index"
+              "name": "Index",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.2,
               "uniqueID": "id-4927",
-              "name": "NumberElements"
+              "name": "NumberElements",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.3,
               "uniqueID": "id-4928",
-              "name": "Shape"
+              "name": "Shape",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.4,
               "uniqueID": "id-4929",
-              "name": "MoveX"
+              "name": "MoveX",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.5,
               "uniqueID": "id-4930",
-              "name": "MoveY"
+              "name": "MoveY",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.6,
               "uniqueID": "id-4931",
-              "name": "MoveZ"
+              "name": "MoveZ",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.7,
               "uniqueID": "id-4932",
-              "name": "RotateX"
+              "name": "RotateX",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.8,
               "uniqueID": "id-4933",
-              "name": "RotateY"
+              "name": "RotateY",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.9,
               "uniqueID": "id-4934",
-              "name": "RotateZ"
+              "name": "RotateZ",
+              "options": []
             },
             {
               "atomType": "Equation",
@@ -1409,63 +1439,72 @@
               "x": 0,
               "y": 0.2,
               "uniqueID": "id-5009",
-              "name": "Index"
+              "name": "Index",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.2,
               "uniqueID": "id-5010",
-              "name": "NumberElements"
+              "name": "NumberElements",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.3,
               "uniqueID": "id-5011",
-              "name": "Shape"
+              "name": "Shape",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.4,
               "uniqueID": "id-5012",
-              "name": "MoveX"
+              "name": "MoveX",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.5,
               "uniqueID": "id-5013",
-              "name": "MoveY"
+              "name": "MoveY",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.6,
               "uniqueID": "id-5014",
-              "name": "MoveZ"
+              "name": "MoveZ",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.7,
               "uniqueID": "id-5015",
-              "name": "RotateX"
+              "name": "RotateX",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.8,
               "uniqueID": "id-5016",
-              "name": "RotateY"
+              "name": "RotateY",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.9,
               "uniqueID": "id-5017",
-              "name": "RotateZ"
+              "name": "RotateZ",
+              "options": []
             },
             {
               "atomType": "Equation",
@@ -1870,63 +1909,72 @@
               "x": 0,
               "y": 0.2,
               "uniqueID": "id-5092",
-              "name": "Index"
+              "name": "Index",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.2,
               "uniqueID": "id-5093",
-              "name": "NumberElements"
+              "name": "NumberElements",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.3,
               "uniqueID": "id-5094",
-              "name": "Shape"
+              "name": "Shape",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.4,
               "uniqueID": "id-5095",
-              "name": "MoveX"
+              "name": "MoveX",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.5,
               "uniqueID": "id-5096",
-              "name": "MoveY"
+              "name": "MoveY",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.6,
               "uniqueID": "id-5097",
-              "name": "MoveZ"
+              "name": "MoveZ",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.7,
               "uniqueID": "id-5098",
-              "name": "RotateX"
+              "name": "RotateX",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.8,
               "uniqueID": "id-5099",
-              "name": "RotateY"
+              "name": "RotateY",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.9,
               "uniqueID": "id-5100",
-              "name": "RotateZ"
+              "name": "RotateZ",
+              "options": []
             },
             {
               "atomType": "Equation",
@@ -2331,63 +2379,72 @@
               "x": 0,
               "y": 0.2,
               "uniqueID": "id-5175",
-              "name": "Index"
+              "name": "Index",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.2,
               "uniqueID": "id-5176",
-              "name": "NumberElements"
+              "name": "NumberElements",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.3,
               "uniqueID": "id-5177",
-              "name": "Shape"
+              "name": "Shape",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.4,
               "uniqueID": "id-5178",
-              "name": "MoveX"
+              "name": "MoveX",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.5,
               "uniqueID": "id-5179",
-              "name": "MoveY"
+              "name": "MoveY",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.6,
               "uniqueID": "id-5180",
-              "name": "MoveZ"
+              "name": "MoveZ",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.7,
               "uniqueID": "id-5181",
-              "name": "RotateX"
+              "name": "RotateX",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.8,
               "uniqueID": "id-5182",
-              "name": "RotateY"
+              "name": "RotateY",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.9,
               "uniqueID": "id-5183",
-              "name": "RotateZ"
+              "name": "RotateZ",
+              "options": []
             },
             {
               "atomType": "Equation",
@@ -3049,6 +3106,10 @@
       "name": "ShelfSection",
       "ioValues": [
         {
+          "name": "ShelfNumber",
+          "ioValue": 10
+        },
+        {
           "name": "Curve",
           "ioValue": "__GEOMETRY_INPUT__"
         },
@@ -3083,10 +3144,6 @@
         {
           "name": "ScrewHead",
           "ioValue": 5
-        },
-        {
-          "name": "ShelfNumber",
-          "ioValue": 10
         }
       ],
       "topLevel": false,
@@ -3440,9 +3497,10 @@
         {
           "atomType": "Input",
           "x": 0,
-          "y": 1,
+          "y": 0.2,
           "uniqueID": "id-3888",
-          "name": "ShelfNumber"
+          "name": "ShelfNumber",
+          "options": []
         },
         {
           "atomType": "Output",
@@ -3462,35 +3520,40 @@
           "y": 0.2,
           "uniqueID": "id-482",
           "name": "Curve",
-          "type": "geometry"
-        },
-        {
-          "atomType": "Input",
-          "x": 0,
-          "y": 0.2,
-          "uniqueID": "id-485",
-          "name": "ShelfHeight"
+          "type": "geometry",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.3,
-          "uniqueID": "id-491",
-          "name": "WoodThick"
+          "uniqueID": "id-485",
+          "name": "ShelfHeight",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.4,
-          "uniqueID": "id-494",
-          "name": "TotalDepth"
+          "uniqueID": "id-491",
+          "name": "WoodThick",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.5,
+          "uniqueID": "id-494",
+          "name": "TotalDepth",
+          "options": []
+        },
+        {
+          "atomType": "Input",
+          "x": 0,
+          "y": 0.6,
           "uniqueID": "id-497",
-          "name": "TotalWidth"
+          "name": "TotalWidth",
+          "options": []
         },
         {
           "atomType": "Rectangle",
@@ -3511,9 +3574,10 @@
         {
           "atomType": "Input",
           "x": 0,
-          "y": 0.6,
+          "y": 0.7,
           "uniqueID": "id-521",
-          "name": "CurveWidth"
+          "name": "CurveWidth",
+          "options": []
         },
         {
           "atomType": "Move",
@@ -3765,9 +3829,10 @@
         {
           "atomType": "Input",
           "x": 0,
-          "y": 0.7,
+          "y": 0.8,
           "uniqueID": "id-592",
-          "name": "ShelfIndex"
+          "name": "ShelfIndex",
+          "options": []
         },
         {
           "atomType": "Tag",
@@ -3904,16 +3969,18 @@
         {
           "atomType": "Input",
           "x": 0,
-          "y": 0.8,
+          "y": 0.9,
           "uniqueID": "id-851",
-          "name": "ScrewDiameter"
+          "name": "ScrewDiameter",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
-          "y": 0.9,
+          "y": 1,
           "uniqueID": "id-854",
-          "name": "ScrewHead"
+          "name": "ScrewHead",
+          "options": []
         },
         {
           "atomType": "Equation",
@@ -4162,21 +4229,24 @@
               "x": 0,
               "y": 0.2,
               "uniqueID": "id-948",
-              "name": "WoodThick"
+              "name": "WoodThick",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.2,
               "uniqueID": "id-955",
-              "name": "ScrewDiameter"
+              "name": "ScrewDiameter",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.3,
               "uniqueID": "id-958",
-              "name": "ScrewHead"
+              "name": "ScrewHead",
+              "options": []
             }
           ],
           "allConnectors": [
@@ -4381,6 +4451,111 @@
         }
       ],
       "allConnectors": [
+        {
+          "ap2Name": "geometry",
+          "ap1ID": "id-1000",
+          "ap2ID": "id-1004"
+        },
+        {
+          "ap2Name": "geometry",
+          "ap1ID": "id-1004",
+          "ap2ID": "id-1032"
+        },
+        {
+          "ap2Name": "retain",
+          "ap1ID": "id-1016",
+          "ap2ID": "id-986"
+        },
+        {
+          "ap2Name": "yDist",
+          "ap1ID": "id-1028",
+          "ap2ID": "id-1004"
+        },
+        {
+          "ap2Name": "geometry",
+          "ap1ID": "id-1032",
+          "ap2ID": "id-1038"
+        },
+        {
+          "ap2Name": "Shape 2",
+          "ap1ID": "id-1032",
+          "ap2ID": "id-993"
+        },
+        {
+          "ap2Name": "geometry",
+          "ap1ID": "id-1038",
+          "ap2ID": "id-1055"
+        },
+        {
+          "ap2Name": "yDist",
+          "ap1ID": "id-1050",
+          "ap2ID": "id-1055"
+        },
+        {
+          "ap2Name": "Shape 1",
+          "ap1ID": "id-1055",
+          "ap2ID": "id-993"
+        },
+        {
+          "ap2Name": "i",
+          "ap1ID": "id-1734",
+          "ap2ID": "id-1781"
+        },
+        {
+          "ap2Name": "y length",
+          "ap1ID": "id-1739",
+          "ap2ID": "id-1743"
+        },
+        {
+          "ap2Name": "y",
+          "ap1ID": "id-1739",
+          "ap2ID": "id-1759"
+        },
+        {
+          "ap2Name": "geometry",
+          "ap1ID": "id-1743",
+          "ap2ID": "id-1749"
+        },
+        {
+          "ap2Name": "geometry",
+          "ap1ID": "id-1749",
+          "ap2ID": "id-1753"
+        },
+        {
+          "ap2Name": "geometry",
+          "ap1ID": "id-1753",
+          "ap2ID": "id-1769"
+        },
+        {
+          "ap2Name": "yDist",
+          "ap1ID": "id-1759",
+          "ap2ID": "id-1753"
+        },
+        {
+          "ap2Name": "geometry",
+          "ap1ID": "id-1769",
+          "ap2ID": "id-1787"
+        },
+        {
+          "ap2Name": "Shape 4",
+          "ap1ID": "id-1769",
+          "ap2ID": "id-993"
+        },
+        {
+          "ap2Name": "yDist",
+          "ap1ID": "id-1781",
+          "ap2ID": "id-1769"
+        },
+        {
+          "ap2Name": "Shape 3",
+          "ap1ID": "id-1787",
+          "ap2ID": "id-993"
+        },
+        {
+          "ap2Name": "yDist",
+          "ap1ID": "id-1793",
+          "ap2ID": "id-1787"
+        },
         {
           "ap2Name": "Shape 2",
           "ap1ID": "id-482",
@@ -4758,111 +4933,6 @@
         },
         {
           "ap2Name": "geometry",
-          "ap1ID": "id-1000",
-          "ap2ID": "id-1004"
-        },
-        {
-          "ap2Name": "geometry",
-          "ap1ID": "id-1004",
-          "ap2ID": "id-1032"
-        },
-        {
-          "ap2Name": "retain",
-          "ap1ID": "id-1016",
-          "ap2ID": "id-986"
-        },
-        {
-          "ap2Name": "yDist",
-          "ap1ID": "id-1028",
-          "ap2ID": "id-1004"
-        },
-        {
-          "ap2Name": "geometry",
-          "ap1ID": "id-1032",
-          "ap2ID": "id-1038"
-        },
-        {
-          "ap2Name": "Shape 2",
-          "ap1ID": "id-1032",
-          "ap2ID": "id-993"
-        },
-        {
-          "ap2Name": "geometry",
-          "ap1ID": "id-1038",
-          "ap2ID": "id-1055"
-        },
-        {
-          "ap2Name": "yDist",
-          "ap1ID": "id-1050",
-          "ap2ID": "id-1055"
-        },
-        {
-          "ap2Name": "Shape 1",
-          "ap1ID": "id-1055",
-          "ap2ID": "id-993"
-        },
-        {
-          "ap2Name": "i",
-          "ap1ID": "id-1734",
-          "ap2ID": "id-1781"
-        },
-        {
-          "ap2Name": "y length",
-          "ap1ID": "id-1739",
-          "ap2ID": "id-1743"
-        },
-        {
-          "ap2Name": "y",
-          "ap1ID": "id-1739",
-          "ap2ID": "id-1759"
-        },
-        {
-          "ap2Name": "geometry",
-          "ap1ID": "id-1743",
-          "ap2ID": "id-1749"
-        },
-        {
-          "ap2Name": "geometry",
-          "ap1ID": "id-1749",
-          "ap2ID": "id-1753"
-        },
-        {
-          "ap2Name": "geometry",
-          "ap1ID": "id-1753",
-          "ap2ID": "id-1769"
-        },
-        {
-          "ap2Name": "yDist",
-          "ap1ID": "id-1759",
-          "ap2ID": "id-1753"
-        },
-        {
-          "ap2Name": "geometry",
-          "ap1ID": "id-1769",
-          "ap2ID": "id-1787"
-        },
-        {
-          "ap2Name": "Shape 4",
-          "ap1ID": "id-1769",
-          "ap2ID": "id-993"
-        },
-        {
-          "ap2Name": "yDist",
-          "ap1ID": "id-1781",
-          "ap2ID": "id-1769"
-        },
-        {
-          "ap2Name": "Shape 3",
-          "ap1ID": "id-1787",
-          "ap2ID": "id-993"
-        },
-        {
-          "ap2Name": "yDist",
-          "ap1ID": "id-1793",
-          "ap2ID": "id-1787"
-        },
-        {
-          "ap2Name": "geometry",
           "ap1ID": "id-913",
           "ap2ID": "id-869"
         }
@@ -4889,14 +4959,16 @@
       "x": 0,
       "y": 0.9,
       "uniqueID": "id-586",
-      "name": "ScrewShaft"
+      "name": "ScrewShaft",
+      "options": []
     },
     {
       "atomType": "Input",
       "x": 0,
       "y": 1,
       "uniqueID": "id-589",
-      "name": "ScrewHead"
+      "name": "ScrewHead",
+      "options": []
     },
     {
       "atomType": "Molecule",
@@ -5607,21 +5679,24 @@
           "x": 0,
           "y": 0.2,
           "uniqueID": "id-68",
-          "name": "WoodThick"
+          "name": "WoodThick",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.2,
           "uniqueID": "id-71",
-          "name": "CurveWidth"
+          "name": "CurveWidth",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.3,
           "uniqueID": "id-74",
-          "name": "CurveHeight"
+          "name": "CurveHeight",
+          "options": []
         },
         {
           "atomType": "Rectangle",
@@ -5688,91 +5763,6 @@
       ],
       "allConnectors": [
         {
-          "ap2Name": "WT",
-          "ap1ID": "id-68",
-          "ap2ID": "id-1386"
-        },
-        {
-          "ap2Name": "yDist",
-          "ap1ID": "id-68",
-          "ap2ID": "id-1398"
-        },
-        {
-          "ap2Name": "x",
-          "ap1ID": "id-71",
-          "ap2ID": "id-127"
-        },
-        {
-          "ap2Name": "x",
-          "ap1ID": "id-71",
-          "ap2ID": "id-147"
-        },
-        {
-          "ap2Name": "x",
-          "ap1ID": "id-71",
-          "ap2ID": "id-198"
-        },
-        {
-          "ap2Name": "x length",
-          "ap1ID": "id-71",
-          "ap2ID": "id-221"
-        },
-        {
-          "ap2Name": "x",
-          "ap1ID": "id-71",
-          "ap2ID": "id-305"
-        },
-        {
-          "ap2Name": "x length",
-          "ap1ID": "id-71",
-          "ap2ID": "id-77"
-        },
-        {
-          "ap2Name": "y",
-          "ap1ID": "id-74",
-          "ap2ID": "id-127"
-        },
-        {
-          "ap2Name": "y",
-          "ap1ID": "id-74",
-          "ap2ID": "id-147"
-        },
-        {
-          "ap2Name": "yDist",
-          "ap1ID": "id-74",
-          "ap2ID": "id-192"
-        },
-        {
-          "ap2Name": "yDist",
-          "ap1ID": "id-74",
-          "ap2ID": "id-247"
-        },
-        {
-          "ap2Name": "CH",
-          "ap1ID": "id-74",
-          "ap2ID": "id-1386"
-        },
-        {
-          "ap2Name": "y length",
-          "ap1ID": "id-74",
-          "ap2ID": "id-77"
-        },
-        {
-          "ap2Name": "geometry",
-          "ap1ID": "id-77",
-          "ap2ID": "id-131"
-        },
-        {
-          "ap2Name": "geometry",
-          "ap1ID": "id-81",
-          "ap2ID": "id-85"
-        },
-        {
-          "ap2Name": "geometry",
-          "ap1ID": "id-85",
-          "ap2ID": "id-137"
-        },
-        {
           "ap2Name": "t",
           "ap1ID": "id-127",
           "ap2ID": "id-147"
@@ -5791,6 +5781,16 @@
           "ap2Name": "remove",
           "ap1ID": "id-137",
           "ap2ID": "id-143"
+        },
+        {
+          "ap2Name": "y length",
+          "ap1ID": "id-1386",
+          "ap2ID": "id-313"
+        },
+        {
+          "ap2Name": "number or geometry",
+          "ap1ID": "id-1398",
+          "ap2ID": "id-66"
         },
         {
           "ap2Name": "Shape 1",
@@ -5943,14 +5943,89 @@
           "ap2ID": "id-277"
         },
         {
-          "ap2Name": "y length",
-          "ap1ID": "id-1386",
-          "ap2ID": "id-313"
+          "ap2Name": "WT",
+          "ap1ID": "id-68",
+          "ap2ID": "id-1386"
         },
         {
-          "ap2Name": "number or geometry",
-          "ap1ID": "id-1398",
-          "ap2ID": "id-66"
+          "ap2Name": "yDist",
+          "ap1ID": "id-68",
+          "ap2ID": "id-1398"
+        },
+        {
+          "ap2Name": "x",
+          "ap1ID": "id-71",
+          "ap2ID": "id-127"
+        },
+        {
+          "ap2Name": "x",
+          "ap1ID": "id-71",
+          "ap2ID": "id-147"
+        },
+        {
+          "ap2Name": "x",
+          "ap1ID": "id-71",
+          "ap2ID": "id-198"
+        },
+        {
+          "ap2Name": "x length",
+          "ap1ID": "id-71",
+          "ap2ID": "id-221"
+        },
+        {
+          "ap2Name": "x",
+          "ap1ID": "id-71",
+          "ap2ID": "id-305"
+        },
+        {
+          "ap2Name": "x length",
+          "ap1ID": "id-71",
+          "ap2ID": "id-77"
+        },
+        {
+          "ap2Name": "y",
+          "ap1ID": "id-74",
+          "ap2ID": "id-127"
+        },
+        {
+          "ap2Name": "y",
+          "ap1ID": "id-74",
+          "ap2ID": "id-147"
+        },
+        {
+          "ap2Name": "yDist",
+          "ap1ID": "id-74",
+          "ap2ID": "id-192"
+        },
+        {
+          "ap2Name": "yDist",
+          "ap1ID": "id-74",
+          "ap2ID": "id-247"
+        },
+        {
+          "ap2Name": "CH",
+          "ap1ID": "id-74",
+          "ap2ID": "id-1386"
+        },
+        {
+          "ap2Name": "y length",
+          "ap1ID": "id-74",
+          "ap2ID": "id-77"
+        },
+        {
+          "ap2Name": "geometry",
+          "ap1ID": "id-77",
+          "ap2ID": "id-131"
+        },
+        {
+          "ap2Name": "geometry",
+          "ap1ID": "id-81",
+          "ap2ID": "id-85"
+        },
+        {
+          "ap2Name": "geometry",
+          "ap1ID": "id-85",
+          "ap2ID": "id-137"
         }
       ],
       "fileTypeVersion": 1
@@ -6018,28 +6093,32 @@
           "x": 0,
           "y": 0.2,
           "uniqueID": "id-6716",
-          "name": "ShelfHeight"
+          "name": "ShelfHeight",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.2,
           "uniqueID": "id-6717",
-          "name": "WoodThick"
+          "name": "WoodThick",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.3,
           "uniqueID": "id-6718",
-          "name": "TotalDepth"
+          "name": "TotalDepth",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.4,
           "uniqueID": "id-6719",
-          "name": "TotalWidth"
+          "name": "TotalWidth",
+          "options": []
         },
         {
           "atomType": "Rectangle",
@@ -6062,7 +6141,8 @@
           "x": 0,
           "y": 0.5,
           "uniqueID": "id-6721",
-          "name": "CurveWidth"
+          "name": "CurveWidth",
+          "options": []
         },
         {
           "atomType": "Move",
@@ -6193,7 +6273,8 @@
           "x": 0,
           "y": 0.6,
           "uniqueID": "id-6732",
-          "name": "ShelfIndex"
+          "name": "ShelfIndex",
+          "options": []
         },
         {
           "atomType": "Tag",
@@ -6298,14 +6379,16 @@
           "x": 0,
           "y": 0.7,
           "uniqueID": "id-6741",
-          "name": "ScrewDiameter"
+          "name": "ScrewDiameter",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.8,
           "uniqueID": "id-6742",
-          "name": "ScrewHead"
+          "name": "ScrewHead",
+          "options": []
         },
         {
           "atomType": "Equation",
@@ -6610,7 +6693,8 @@
           "x": 0,
           "y": 0.9,
           "uniqueID": "id-6773",
-          "name": "ShelfNumber"
+          "name": "ShelfNumber",
+          "options": []
         },
         {
           "atomType": "Equation",
@@ -6973,28 +7057,32 @@
           "x": 0,
           "y": 0.2,
           "uniqueID": "id-7006",
-          "name": "ShelfHeight"
+          "name": "ShelfHeight",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.2,
           "uniqueID": "id-7007",
-          "name": "WoodThick"
+          "name": "WoodThick",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.3,
           "uniqueID": "id-7008",
-          "name": "TotalDepth"
+          "name": "TotalDepth",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.4,
           "uniqueID": "id-7009",
-          "name": "TotalWidth"
+          "name": "TotalWidth",
+          "options": []
         },
         {
           "atomType": "Rectangle",
@@ -7017,7 +7105,8 @@
           "x": 0,
           "y": 0.5,
           "uniqueID": "id-7011",
-          "name": "CurveWidth"
+          "name": "CurveWidth",
+          "options": []
         },
         {
           "atomType": "Move",
@@ -7208,7 +7297,8 @@
           "x": 0,
           "y": 0.6,
           "uniqueID": "id-7022",
-          "name": "ShelfIndex"
+          "name": "ShelfIndex",
+          "options": []
         },
         {
           "atomType": "Tag",
@@ -7347,14 +7437,16 @@
           "x": 0,
           "y": 0.7,
           "uniqueID": "id-7031",
-          "name": "ScrewDiameter"
+          "name": "ScrewDiameter",
+          "options": []
         },
         {
           "atomType": "Input",
           "x": 0,
           "y": 0.8,
           "uniqueID": "id-7032",
-          "name": "ScrewHead"
+          "name": "ScrewHead",
+          "options": []
         },
         {
           "atomType": "Equation",
@@ -7918,7 +8010,8 @@
           "x": 0,
           "y": 0.9,
           "uniqueID": "id-7063",
-          "name": "ShelfNumber"
+          "name": "ShelfNumber",
+          "options": []
         },
         {
           "atomType": "Molecule",
@@ -8102,21 +8195,24 @@
               "x": 0,
               "y": 0.2,
               "uniqueID": "id-7072",
-              "name": "WoodThick"
+              "name": "WoodThick",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.2,
               "uniqueID": "id-7073",
-              "name": "ScrewDiameter"
+              "name": "ScrewDiameter",
+              "options": []
             },
             {
               "atomType": "Input",
               "x": 0,
               "y": 0.3,
               "uniqueID": "id-7074",
-              "name": "ScrewHead"
+              "name": "ScrewHead",
+              "options": []
             }
           ],
           "allConnectors": [
@@ -8746,6 +8842,11 @@
   ],
   "allConnectors": [
     {
+      "ap2Name": "CurveHeight",
+      "ap1ID": "id-1380",
+      "ap2ID": "id-64"
+    },
+    {
       "ap2Name": "CurveWidth",
       "ap1ID": "id-19",
       "ap2ID": "id-64"
@@ -8906,11 +9007,6 @@
       "ap2ID": "id-7003"
     },
     {
-      "ap2Name": "CurveHeight",
-      "ap1ID": "id-1380",
-      "ap2ID": "id-64"
-    },
-    {
       "ap2Name": "Shape 3",
       "ap1ID": "id-8224",
       "ap2ID": "id-8248"
@@ -8946,14 +9042,14 @@
       "ap2ID": "id-8248"
     },
     {
-      "ap2Name": "Shape",
-      "ap1ID": "id-478",
-      "ap2ID": "id-4283"
-    },
-    {
       "ap2Name": "geometry",
       "ap1ID": "id-4283",
       "ap2ID": "id-8224"
+    },
+    {
+      "ap2Name": "Shape",
+      "ap1ID": "id-478",
+      "ap2ID": "id-4283"
     },
     {
       "ap2Name": "Shape 2",
